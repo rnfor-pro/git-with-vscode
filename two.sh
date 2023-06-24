@@ -1,1 +1,1 @@
-echo "I am glad to use git with vi code"
+echo "I am glad to use git with vi code" > file.log
